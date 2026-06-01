@@ -9,6 +9,9 @@ TODO
 
 ### Learn
 - index.html을 포함한 웹 사이트의 초기 구조를 작성할 수 있다.
+- Emmet 설정하기: 
+    1. :Mason 창에서 LSP(emmet-language-server)를 설치(실행 파일 다운로드)한다.
+    2. `~/.config/nvim/init.lua` 파일의 servers 테이블에 `emmet_language_server = {}` 코드를 추가하여 LSP를 등록한다.
 
 ### Assignment(과제)
 #### Step 1. Iteration 1: initial structure(초기 구조 잡기)
