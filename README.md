@@ -12,6 +12,8 @@ TODO
 - Emmet 설정하기: 
     1. :Mason 창에서 LSP(emmet-language-server)를 설치(실행 파일 다운로드)한다.
     2. `~/.config/nvim/init.lua` 파일의 servers 테이블에 `emmet_language_server = {}` 코드를 추가하여 LSP를 등록한다.
+- `<a>` 태그를 사용하여 서로 다른 웹 페이지를 연결할 수 있다.
+- Tailscale로 서로 다른 기기를 연결하며, 로컬 서버에 원격으로 개발할 수 있다.
 
 ### Assignment(과제)
 #### Step 1. Iteration 1: initial structure(초기 구조 잡기)
