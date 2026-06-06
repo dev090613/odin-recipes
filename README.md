@@ -4,7 +4,7 @@
 - [프로젝트에 대한 상세한 요구사항](https://www.theodinproject.com/lessons/foundations-recipes)
 
 ## About
-- 유명한 오픈소스 웹 프로젝트인 ["The Odin Project"](https://www.theodinproject.com/)의 [첫 번째 과제](https://www.theodinproject.com/lessons/foundations-recipes)이다. 아주 간단한 웹 페이지를 만들고 링크로 연결해본다.
+- 유명한 오픈소스 웹 프로젝트인 ["The Odin Project"](https://www.theodinproject.com/about)의 [첫 번째 과제](https://www.theodinproject.com/lessons/foundations-recipes)이다. 아주 간단한 웹 페이지를 만들고 링크로 연결해본다.
 - **해당 과제를 완료하는 과정에서 아래와 같은 기술을 적용하였다.**
 
 ## Learn
