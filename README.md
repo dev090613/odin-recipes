@@ -42,5 +42,6 @@
 2. `index.html` 페이지에 새 레시피로 연결되는 링크를 추가한다. 또한, 모든 링크이 간격을 가질 수 있도록 순서 없는 목록(`<ul>`) 안에 넣는다.
 
 ##### 기타
-- Reference: Guidance for this project(https://www.theodinproject.com/lessons/foundations-recipes)
+- [과제 요구사항 링크](https://www.theodinproject.com/lessons/foundations-recipes)
+- [과제 링크](https://dev090613.github.io/odin-recipes/)
 - 레시피 참고 자료: [만개의레시피](https://www.10000recipe.com/index.html)
